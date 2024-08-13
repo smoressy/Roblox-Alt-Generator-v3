@@ -1,4 +1,4 @@
-# Roblox-Alt-Generator-v2
+# Roblox Alt Genertor v3 (Chrome Extension)
 Generate Roblox Alt Accounts Faster using this
 # Use different Chrome Profiles!
 USE THIS EXTENSION ON AN ALTERNATIVE CHROME PROFILE! As it will completely ruin your Roblox experience on the web if you install this on your main!
