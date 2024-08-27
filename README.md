@@ -1,5 +1,5 @@
 # Roblox Alt Genertor v3 (Chrome Extension)
-Generate Roblox Alt Accounts Faster using this extension. <br>
+This is a Chrome Extension that will let you generate Roblox alt accounts as fast as possible. How to install extensions as these: https://www.youtube.com/watch?v=oswjtLwCUqg<br>
 To download, go to extension.zip and download that, or use GitHub's direct download link: <br>
 https://github.com/smoressy/Roblox-Alt-Generator-v3/archive/refs/heads/main.zip
 # Use different Chrome Profiles
