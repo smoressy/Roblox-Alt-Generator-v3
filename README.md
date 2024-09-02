@@ -5,7 +5,7 @@ Roblox Alt Generator v3 is a new and unique Chrome Extension designed to help yo
 To get started, you'll need to install this extension on Chrome. If you're new to installing unpacked Chrome extensions, check out this helpful [YouTube tutorial](https://www.youtube.com/watch?v=oswjtLwCUqg).
 
 ### Download the Extension
-You can download the extension directly by clicking [here](https://github.com/smoressy/Roblox-Alt-Generator-v3/archive/refs/heads/main.zip). Alternatively, you can download the `main-ext.zip` file from this repository.
+You can download the extension directly by clicking [here](https://github.com/smoressy/Roblox-Alt-Generator-v3/archive/refs/heads/main.zip). Alternatively, you can download the `AltGen.zip` file from this repository.
 
 ## Use Different Chrome Profiles
 For the best experience, it's recommended to install this extension on an alternative Chrome profile. Installing it on your main profile might interfere with your primary Roblox experience.
